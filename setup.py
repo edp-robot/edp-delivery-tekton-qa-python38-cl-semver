@@ -27,11 +27,11 @@ setup(
     tests_require=["pytest","requests"],
 
     install_requires=[
-        "Click",
-        "Flask",
-        "Jinja2",
-        "MarkupSafe",
-        "Werkzeug",
-        "markdown",
+        "Click==8.1.7",
+        "Flask==3.0.3",
+        "Jinja2==3.1.4",
+        "MarkupSafe==2.1.5",
+        "Werkzeug==3.0.4",
+        "markdown==3.7",
         ],
 )
