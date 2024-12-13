@@ -33,5 +33,6 @@ setup(
         "MarkupSafe==2.1.5",
         "Werkzeug==3.0.4",
         "markdown==3.7",
+        "blinker==1.6.2",
         ],
 )
