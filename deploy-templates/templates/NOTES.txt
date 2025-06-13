@@ -1,0 +1,1 @@
+1. Application python38-cl-semver has been successfully deployed!!
